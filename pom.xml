@@ -92,13 +92,12 @@
                 <configuration>
                     <archive>
                         <manifestEntries>
-                            <Main-Class>com.epam.CalculatorTesting</Main-Class>
+                            <Main-Class>com.epam.TestRunner</Main-Class>
                         </manifestEntries>
                     </archive>
                 </configuration>
             </plugin>
         </plugins>
-
     </build>
 
 </project>

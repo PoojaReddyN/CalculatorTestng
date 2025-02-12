@@ -92,7 +92,7 @@
                 <configuration>
                     <archive>
                         <manifestEntries>
-                            <Main-Class>org.epam.CalculatorTesting</Main-Class>
+                            <Main-Class>com.epam.CalculatorTesting</Main-Class>
                         </manifestEntries>
                     </archive>
                 </configuration>

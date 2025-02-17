@@ -7,7 +7,6 @@ import org.testng.annotations.*;
 public class CalculatorTesting {
 
     private Calculator calculator;
-;
 
     @BeforeSuite
     public void beforeSuite(){
